@@ -1,5 +1,4 @@
 ## 欢迎来到我的网页，我是沭辙。
-<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="utf-8">
